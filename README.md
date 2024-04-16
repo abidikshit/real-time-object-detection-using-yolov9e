@@ -1,10 +1,6 @@
 # Real-Time Object Detection with YOLOv9 and Supervision
 
-[![Watch the video](/output_video/objectdetection.png)](Real-Time-Object-Detection-Using-YOLOv9-e/output_video/LiveFeed_Detect_Log.mp4)
-
-<a href="/output_video/LiveFeed_Detect_Log.mp4" target="_blank">
-  <img src="/output_video/objectdetection.png" alt="Watch the video" width="500" height="300">
-</a>
+[![Watch the video](/output_video/objectdetection.png)](output_video/LiveFeed_Detect_Log.mp4)
 
 ## Overview
 
@@ -50,7 +46,8 @@ This project showcases real-time object detection using YOLOv9, coupled with Sup
     python main.py --config config.json
     ```
 
-## File Structure
+## Folder Structure
+.
 ├── main.py # Main script for real-time object detection
 ├── supervision.py # Annotator and other utilities using Supervision
 ├── yolov9e.pt # Pre-trained YOLOv9 model
