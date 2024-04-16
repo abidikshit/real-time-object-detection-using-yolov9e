@@ -1,0 +1,3840 @@
+[
+    {
+        "timestamp": "2024-04-12 01:36:11",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9620513916015625
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9451900720596313
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9346069097518921
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8941323757171631
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8823356032371521
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6474526524543762
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5626350045204163
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.45698726177215576
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.42674922943115234
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3187616765499115
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.29782944917678833
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2884746789932251
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:12",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9660736918449402
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440582394599915
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9395815134048462
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8769616484642029
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8490753173828125
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.7358202338218689
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7182992696762085
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5685387253761292
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.37839558720588684
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.32423585653305054
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3197951912879944
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:13",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9661536812782288
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9436625242233276
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.940196692943573
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8760190010070801
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8434082865715027
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.731009304523468
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6952734589576721
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5434434413909912
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.37860843539237976
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3289066553115845
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3276155889034271
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:14",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.965431272983551
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.942738950252533
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9406759738922119
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.868931233882904
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8375886678695679
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7741335034370422
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.6959584355354309
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.514755129814148
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.33501318097114563
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3110330104827881
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2503158450126648
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:16",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9655003547668457
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.943239688873291
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9391445517539978
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8725715279579163
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.844341516494751
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6901923418045044
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.6671524047851562
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.44847574830055237
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3630048930644989
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3294219970703125
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.32063424587249756
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:17",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9664014577865601
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440516829490662
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.93889319896698
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8761107325553894
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8495525121688843
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6979811787605286
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.6672730445861816
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5144243240356445
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3804152011871338
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.31457647681236267
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2753971219062805
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:19",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9667488932609558
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9433354735374451
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9371187090873718
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8793089985847473
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8416057229042053
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7939359545707703
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.625455915927887
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5250479578971863
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3112783432006836
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3002724349498749
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.25797784328460693
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:20",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9654850363731384
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9432284832000732
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9382668733596802
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8824506998062134
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.848858118057251
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8124685883522034
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.5977246165275574
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.46947261691093445
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.39212775230407715
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3203980624675751
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.26392918825149536
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:22",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9659252762794495
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9439117312431335
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9399240612983704
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8909838795661926
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8833956122398376
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8012025952339172
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4502239525318146
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.426039457321167
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3336564898490906
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.26366716623306274
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:23",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9658210873603821
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.944145679473877
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.938339114189148
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8915850520133972
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8730846047401428
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7990764379501343
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.49771979451179504
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.44102567434310913
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3672250807285309
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2859087586402893
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.27065742015838623
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:24",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9661317467689514
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9443748593330383
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9402721524238586
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8904359340667725
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8707742691040039
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7994874715805054
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4563804566860199
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.41375818848609924
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.39337992668151855
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3077847361564636
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:26",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.966231107711792
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9447100758552551
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9392123818397522
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8946396112442017
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8721453547477722
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8039974570274353
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4713498651981354
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.39434152841567993
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3936183750629425
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.30334556102752686
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:28",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9662989974021912
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9443923234939575
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9369449615478516
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.890603244304657
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8811657428741455
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7953887581825256
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5208425521850586
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.40937769412994385
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3385120928287506
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.30840209126472473
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3082698881626129
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2728961408138275
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:29",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9659956693649292
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.944247841835022
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9376601576805115
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8901742696762085
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8884892463684082
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8043168187141418
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5099608898162842
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.44511017203330994
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3680543005466461
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.31499606370925903
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.2601639926433563
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2592439651489258
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:30",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9660452008247375
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9442587494850159
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9297267198562622
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8859351277351379
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.848853349685669
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7469813227653503
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.46060100197792053
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.36651936173439026
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3054969906806946
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:32",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9664693474769592
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.944065272808075
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9316335320472717
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8862446546554565
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.853900134563446
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7360084652900696
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4694329798221588
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3575035035610199
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3017689287662506
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2909430265426636
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:33",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9661882519721985
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9441652297973633
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9320018887519836
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8857341408729553
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8433927893638611
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7467043399810791
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.473116010427475
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.37725332379341125
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.36898329854011536
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.2918262779712677
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:35",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9662656188011169
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440215826034546
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9317154884338379
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8852587342262268
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8455734848976135
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7435230612754822
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.48646047711372375
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.41445937752723694
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3697882890701294
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.2865578532218933
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:36",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9665737152099609
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9439542293548584
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.93226158618927
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8830159902572632
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8375783562660217
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7406423091888428
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.5520991683006287
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.46350979804992676
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3718579411506653
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.28101399540901184
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:38",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9658966660499573
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.944198727607727
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9332466721534729
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.885404109954834
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8492977619171143
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7575494647026062
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.5073712468147278
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4528351426124573
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.38662397861480713
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.26564350724220276
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.25311312079429626
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:40",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9663130640983582
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440045952796936
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9342586994171143
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8885028958320618
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8558006286621094
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7547798156738281
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.46717286109924316
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.460825115442276
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3999253213405609
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.2705010175704956
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2671367824077606
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:42",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9655698537826538
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9450583457946777
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9329683780670166
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.887230634689331
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.867210865020752
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7765432596206665
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.48700055480003357
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4731842875480652
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.38133999705314636
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2929001748561859
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2847437262535095
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:44",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9630663990974426
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9447624087333679
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9291301369667053
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8787671327590942
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8526445031166077
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7781251072883606
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4807269275188446
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4628603160381317
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4420071542263031
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3010994493961334
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:47",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9632213711738586
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9452943205833435
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9308657050132751
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8837453126907349
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8562658429145813
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7773220539093018
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5716027021408081
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.45565536618232727
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4351966977119446
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.26675543189048767
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:49",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9639845490455627
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9447234869003296
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9324793219566345
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.881297767162323
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.850721538066864
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7714868783950806
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.571795642375946
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4856105148792267
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.44179025292396545
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:50",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9635862708091736
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9451232552528381
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9325064420700073
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.87847501039505
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8487217426300049
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7763351798057556
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5491598844528198
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.517199695110321
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5009743571281433
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:51",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9636653065681458
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9452899694442749
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9345199465751648
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.878576934337616
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8460711240768433
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7733699679374695
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.5222786068916321
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5166709423065186
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5058577060699463
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2613762319087982
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:53",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9642044901847839
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9451891779899597
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9286002516746521
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8761845827102661
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8488247990608215
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.770953357219696
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5093322992324829
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4896656274795532
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.466851145029068
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3033764064311981
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:54",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9643387198448181
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9444530010223389
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9297072291374207
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8782126307487488
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8522348999977112
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7766912579536438
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5148947834968567
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4917483925819397
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4749878942966461
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2935199737548828
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:56",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9645618200302124
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9446093440055847
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9288700819015503
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8767451047897339
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8549660444259644
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.776278018951416
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5154503583908081
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5081485509872437
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.49311313033103943
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:36:58",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9645703434944153
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9450598359107971
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9307124614715576
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8773798942565918
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8584573268890381
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7821822762489319
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5213151574134827
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5062195062637329
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.5021401047706604
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:00",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9648230671882629
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9441388845443726
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9347602128982544
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8780420422554016
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8578759431838989
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7773489356040955
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5355747938156128
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.429350882768631
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3973061740398407
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.38072043657302856
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2909575402736664
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.25558915734291077
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:01",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9647181034088135
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440580606460571
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9356942772865295
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8765881657600403
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8572098016738892
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7641440033912659
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5429287552833557
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3830987215042114
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.36555033922195435
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3568040132522583
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.28435036540031433
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.25213760137557983
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:02",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9646445512771606
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9439224600791931
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9347516298294067
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8759777545928955
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8619779944419861
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7578493356704712
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5206763744354248
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.43060681223869324
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3868448734283447
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.35632649064064026
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2872416377067566
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2855760455131531
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:04",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9651535749435425
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9433124661445618
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9310541749000549
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8782597184181213
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8514692783355713
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7707822918891907
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5212739706039429
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.41895633935928345
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.38570690155029297
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3544293940067291
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2897239327430725
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2813512682914734
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:05",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9633989930152893
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9434630274772644
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9326642751693726
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8753460049629211
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8478740453720093
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.75128173828125
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5031061172485352
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4071439504623413
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.4021330177783966
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3674590289592743
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3092402219772339
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.281670480966568
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:07",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9637143015861511
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9437689185142517
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9335855841636658
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8751426339149475
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8360854387283325
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7477487325668335
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.48304423689842224
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3914427161216736
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3906534016132355
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3658345341682434
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3065130412578583
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.2859571874141693
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:08",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9597079753875732
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.944158136844635
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9322325587272644
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8778848648071289
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8210927844047546
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7594670057296753
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.6398966908454895
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.5449503660202026
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3729228973388672
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3603631854057312
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.33638447523117065
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.3231050968170166
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:10",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9619200825691223
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.946774423122406
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9197467565536499
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8871966004371643
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8329962491989136
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7514550089836121
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7329018712043762
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4342615604400635
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.40694767236709595
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3192713260650635
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2925339937210083
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:12",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9620386958122253
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9467396140098572
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9177640080451965
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8874960541725159
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8355480432510376
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7389788031578064
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7181819081306458
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4317438304424286
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4121846556663513
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3295384645462036
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2629932165145874
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:13",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9623113870620728
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.946510910987854
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9214066863059998
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8871590495109558
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8338400721549988
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7463790774345398
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7223083972930908
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.43137210607528687
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4190889298915863
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.32810115814208984
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2906169891357422
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:15",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9623618721961975
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9465785026550293
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9215909838676453
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8872281312942505
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8356971740722656
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7455464005470276
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7242480516433716
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.44023576378822327
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.4204544723033905
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.32624131441116333
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.269613116979599
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:16",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9620150923728943
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9465214610099792
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9161052107810974
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8871519565582275
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.831436812877655
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7395192384719849
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7202701568603516
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.43940430879592896
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4352617859840393
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.3184419274330139
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.28525790572166443
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:18",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9619296193122864
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.946255087852478
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9193241000175476
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8872663974761963
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8243000507354736
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7471647262573242
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.714978814125061
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.45022526383399963
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3621295690536499
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.32431986927986145
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.2886083126068115
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:20",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.964539110660553
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9462469816207886
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.920160174369812
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8867906928062439
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8199188113212585
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7534448504447937
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7336394786834717
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.44929447770118713
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3432610034942627
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.34051209688186646
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.29729336500167847
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:21",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9585115909576416
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9516415596008301
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9429235458374023
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9101069569587708
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8661786913871765
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8532024621963501
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7415928840637207
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7116514444351196
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6743570566177368
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4956120252609253
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.49046021699905396
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3220824897289276
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.30429700016975403
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2991737723350525
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.2759701609611511
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.2733505666255951
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.2558742165565491
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:23",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9568793177604675
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9554442167282104
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9450302124023438
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8902027010917664
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8812474012374878
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7813133001327515
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7747456431388855
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7282391786575317
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4948307275772095
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.4680713415145874
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.34304359555244446
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.281430721282959
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:25",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9560473561286926
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9552178978919983
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9443901777267456
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9085215926170349
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8840253949165344
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7718703746795654
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7605994343757629
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.753337025642395
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.554701566696167
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4479796886444092
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.4157086908817291
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.4074338674545288
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:26",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9565311670303345
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9547193050384521
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9437092542648315
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9038987755775452
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8801411986351013
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8054739236831665
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7649743556976318
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7465046048164368
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.6169871687889099
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.48430073261260986
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3554016351699829
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:27",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9563227891921997
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9552144408226013
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9441421627998352
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9042533040046692
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8765418529510498
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7728619575500488
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.7553673982620239
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7419781684875488
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.6455039381980896
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4435428977012634
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.30073073506355286
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.27384135127067566
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.26066145300865173
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:29",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9561138153076172
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.951514482498169
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9419544339179993
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9122540950775146
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.86729496717453
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.841435432434082
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8049240112304688
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7277679443359375
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.6463229656219482
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.35556459426879883
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.27012965083122253
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.2660371959209442
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:32",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9531973004341125
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9481356143951416
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9413195848464966
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9045636057853699
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8396174907684326
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7931805849075317
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7653266787528992
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5977441072463989
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.48108071088790894
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.340847373008728
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3406902551651001
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.2957099378108978
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:34",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9552609920501709
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9547132253646851
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9407240748405457
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8195755481719971
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7742130756378174
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7651066780090332
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7528002262115479
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.7477639317512512
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.7120933532714844
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.42107561230659485
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.31391486525535583
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.28556153178215027
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:35",
+        "detections": [
+            {
+                "class_name": "laptop",
+                "confidence": 0.9609740972518921
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9586620926856995
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.95477694272995
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8924901485443115
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8395847082138062
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8329644203186035
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.5854347944259644
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5572027564048767
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.522849977016449
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4191296398639679
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:37",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9630060791969299
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9586849212646484
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9556028842926025
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9013330936431885
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.872856080532074
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8532593846321106
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.712713360786438
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6475960612297058
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.4909619390964508
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.4839029014110565
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.3776364326477051
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.29905399680137634
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:38",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9622485041618347
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9599027037620544
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9559203386306763
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8925555944442749
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8699530959129333
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.843350887298584
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6532449126243591
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5824826955795288
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5373784303665161
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.43774208426475525
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.33598536252975464
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.31969866156578064
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:40",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9587423205375671
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9572256803512573
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9560825228691101
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9064443707466125
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8523315787315369
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8448683023452759
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6982921957969666
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5878735780715942
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.47828787565231323
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.40212100744247437
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.3559029996395111
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.3542294502258301
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.337706983089447
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3298492431640625
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.28351864218711853
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:42",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9540286660194397
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9448679089546204
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9166593551635742
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.8951060175895691
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8366922736167908
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.813517153263092
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7469848990440369
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5298047661781311
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.39630717039108276
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3868352770805359
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.37314245104789734
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.25106874108314514
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:44",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9561176300048828
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9411755204200745
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9267096519470215
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8649294972419739
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8581724166870117
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7359220385551453
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6635327339172363
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.42814913392066956
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.41620907187461853
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.4136973023414612
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.408060222864151
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.3471907079219818
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2945365905761719
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2865810692310333
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:46",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9539884328842163
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9453260898590088
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9346067905426025
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8747053742408752
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8406739830970764
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8310084342956543
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7491571307182312
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7302845120429993
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6181778311729431
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.40217122435569763
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2652285397052765
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:48",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9546239376068115
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9452686309814453
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9436290860176086
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8899166584014893
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8404356241226196
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8317298889160156
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.745898425579071
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6195358037948608
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5826964974403381
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.359594464302063
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:50",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9542691707611084
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9439995288848877
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9168639183044434
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8971109986305237
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7873542904853821
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.7591794729232788
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.709123969078064
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.6979884505271912
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5549827814102173
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.4504953920841217
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.32776057720184326
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.27338969707489014
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:51",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9544683694839478
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9434639811515808
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9038684368133545
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8979869484901428
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8053631782531738
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7982327342033386
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.7567380666732788
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7510974407196045
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5256417393684387
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.45826485753059387
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3151024281978607
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:53",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9550170302391052
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9428438544273376
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9207314252853394
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8967491984367371
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8117809891700745
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.7951731085777283
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7789396047592163
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5660490393638611
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.45166024565696716
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.3949773609638214
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:55",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9615222811698914
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9589492678642273
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9408303499221802
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9274611473083496
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8871850371360779
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8631879687309265
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7062653303146362
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6423579454421997
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6299995183944702
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5261418223381042
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3959381878376007
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.38229817152023315
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3226850628852844
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.2936527132987976
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.27845296263694763
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.27324751019477844
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:56",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9614981412887573
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9588091969490051
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.941209614276886
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9290612936019897
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8843556046485901
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8665536046028137
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7132411599159241
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6440215706825256
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6181896328926086
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5705201625823975
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.41834336519241333
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.38497060537338257
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.36505940556526184
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3469388484954834
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.2834460437297821
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.2709651589393616
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:58",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9624929428100586
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9587371945381165
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9410909414291382
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9282844066619873
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8881714344024658
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8672111630439758
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7088701725006104
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6592543125152588
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6241573691368103
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5774142742156982
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.4862319529056549
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.3777477443218231
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.37743720412254333
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3635534644126892
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.30865350365638733
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.27906501293182373
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:37:59",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9632632732391357
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9588760137557983
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9411054849624634
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9193330407142639
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8892088532447815
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.86692214012146
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7071221470832825
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6611089706420898
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.6218929886817932
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5836926698684692
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.4661935269832611
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.3942154347896576
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3750672936439514
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3687633275985718
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.2829783260822296
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.2613818049430847
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:01",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9630302786827087
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9586982727050781
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9409149885177612
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9097540974617004
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.890842080116272
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8648837804794312
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7131621837615967
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6584811210632324
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5925339460372925
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.588542640209198
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.44805392622947693
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.3994843065738678
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3873017728328705
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.38087746500968933
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.290165513753891
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:02",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9637213945388794
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.958549976348877
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9403963088989258
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9072834253311157
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.889927327632904
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.869156539440155
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.7083011269569397
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.6581762433052063
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5712692737579346
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.5597074627876282
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4505344033241272
+            },
+            {
+                "class_name": "umbrella",
+                "confidence": 0.42374181747436523
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.3656792640686035
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.30998051166534424
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.28057950735092163
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:04",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9525443911552429
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9475885033607483
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9119016528129578
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.8949390053749084
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.8893966674804688
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8348876237869263
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.723945140838623
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.70172518491745
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.6218566298484802
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.5832182765007019
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5413987040519714
+            },
+            {
+                "class_name": "mouse",
+                "confidence": 0.5340831279754639
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.4633985757827759
+            },
+            {
+                "class_name": "book",
+                "confidence": 0.29112759232521057
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.2797624468803406
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.2739512324333191
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:06",
+        "detections": [
+            {
+                "class_name": "person",
+                "confidence": 0.9556771516799927
+            },
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9551279544830322
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9370425343513489
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9361609816551208
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8626314997673035
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.8118732571601868
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.7177421450614929
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.5580434799194336
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.5562111139297485
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.5479577779769897
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.5406709909439087
+            },
+            {
+                "class_name": "cup",
+                "confidence": 0.5264026522636414
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.2810492217540741
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.2771841585636139
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:08",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9528135061264038
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9524426460266113
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9459134340286255
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9388749003410339
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8569998741149902
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.6676962971687317
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.5476335287094116
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.5330510139465332
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.5028563141822815
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.4741000235080719
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.47089478373527527
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.4283876121044159
+            },
+            {
+                "class_name": "frisbee",
+                "confidence": 0.4000999629497528
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.30083316564559937
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.26226693391799927
+            }
+        ]
+    },
+    {
+        "timestamp": "2024-04-12 01:38:10",
+        "detections": [
+            {
+                "class_name": "skateboard",
+                "confidence": 0.9541347026824951
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.9522888660430908
+            },
+            {
+                "class_name": "laptop",
+                "confidence": 0.9440970420837402
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.9402305483818054
+            },
+            {
+                "class_name": "sports ball",
+                "confidence": 0.8447081446647644
+            },
+            {
+                "class_name": "remote",
+                "confidence": 0.7688055634498596
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.6275190114974976
+            },
+            {
+                "class_name": "suitcase",
+                "confidence": 0.5193331241607666
+            },
+            {
+                "class_name": "backpack",
+                "confidence": 0.5119184255599976
+            },
+            {
+                "class_name": "cell phone",
+                "confidence": 0.45664116740226746
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.40164485573768616
+            },
+            {
+                "class_name": "bottle",
+                "confidence": 0.39398518204689026
+            },
+            {
+                "class_name": "handbag",
+                "confidence": 0.30140501260757446
+            },
+            {
+                "class_name": "tennis racket",
+                "confidence": 0.27700719237327576
+            },
+            {
+                "class_name": "person",
+                "confidence": 0.2581155598163605
+            }
+        ]
+    }
+]
