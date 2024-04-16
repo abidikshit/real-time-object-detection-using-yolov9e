@@ -46,8 +46,8 @@ This project showcases real-time object detection using YOLOv9, coupled with Sup
     python main.py --config config.json
     ```
 
-## Folder Structure
-.
+## Directory Structure
+```bash
 ├── main.py # Main script for real-time object detection
 ├── supervision.py # Annotator and other utilities using Supervision
 ├── yolov9e.pt # Pre-trained YOLOv9 model
@@ -56,7 +56,7 @@ This project showcases real-time object detection using YOLOv9, coupled with Sup
 ├── output.json # JSON logs with object counts and timestamps
 ├── class_counts.csv # CSV file with class counts
 └── README.md # Project documentation
-
+```
 
 ## License
 
